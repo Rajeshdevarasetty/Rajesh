@@ -1,3 +1,4 @@
+<<!___form__>>
 <h1>RAJESH WEBSITE</h1>
 <div style="background:lightgreen">
 <form action="/action.php">
